@@ -10,6 +10,6 @@
 使用了ssm框架
 前端使用了ajax以及cookie缓存，还有bootstrap框架
 
-有什么问题或者更好的ider欢迎pull request
+有什么问题或者更好的ider欢迎pull request 
 
 联系方式：QQ976678755

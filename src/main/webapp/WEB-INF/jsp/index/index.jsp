@@ -373,7 +373,7 @@
 					</li>
 			</c:forEach>
 				</ul>
-				
+
 			<div class="tab-content col-md-12 col-xs-12">
 			<c:forEach items="${urlSortInfos}" var="um">
 					<div role="tabpanel" class="tab-pane" class="asd"  id="${um.urlSortId}">

@@ -19,6 +19,7 @@
 		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
 		<style type="text/css">
 			* {
+
 				padding: 0;
 				margin: 0;
 				box-sizing: border-box;
@@ -362,8 +363,8 @@
 		<input type="submit" value="Search" id="but_sou" />
 	</div>
 </div>
+
   </form>
-  
   		<div class="container content" id="urlbody">
 				<ul class="nav nav-pills nav-justified" role="tablist">
 			<c:forEach items="${urlSortInfos}" var="um">
